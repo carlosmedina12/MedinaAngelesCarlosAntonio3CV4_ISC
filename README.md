@@ -1,10 +1,13 @@
 # MedinaAngelesCarlosAntonio
 # Práctica 1: Modelo Entidad Relación
 
-**Nombre:** Medina Ángeles Carlos Antonio/n
+**Nombre:** Medina Ángeles Carlos Antonio
+
 **Grupo:** 3CV4
+
 **Carrera:** Ingeniería en Sistemas Computacionales
 
+**boleta: 2025630428
 ---
 
 ## Índice de la Práctica
