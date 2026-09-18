@@ -7,7 +7,7 @@
 
 **Carrera:** Ingeniería en Sistemas Computacionales
 
-**boleta: 2025630428
+**boleta:** 2025630428
 ---
 
 ## Índice de la Práctica
