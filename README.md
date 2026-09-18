@@ -9,7 +9,7 @@
 
 ## Índice de la Práctica
 
-1. [Ejercicio 1: Control de Versiones con Git y GitHub](./Control de versiones.pdf)
+1. [Ejercicio 1: Control de Versiones con Git y GitHub](./Control%20de%20versiones.pdf)
 2. [Ejercicio 2: Configuración del Entorno de BD](./Ejercicio2_Entorno.pdf)
 3. [Ejercicio 3: Investigación de Conceptos de BD](./Ejercicio3_Conceptos.pdf)
 4. [Ejercicio 4: Literatura Científica Arbitrada](./Ejercicio4_Articulo.pdf)
