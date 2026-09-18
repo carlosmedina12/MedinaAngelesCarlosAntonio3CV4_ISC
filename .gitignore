@@ -1,0 +1,5 @@
+# 1. Archivos temporales y del sistema operativo
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
