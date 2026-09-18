@@ -14,3 +14,6 @@
 3. [Ejercicio 3: Investigación de Conceptos de BD](./Ejercicio3_Conceptos.pdf)
 4. [Ejercicio 4: Literatura Científica Arbitrada](./Ejercicio4_Articulo.pdf)
 5. [Ejercicio 5: Caso Práctico - Modelo Entidad-Relación](./Ejercicio5_ModeloER.pdf)
+
+6. ## Estado del Proyecto
+- Ejercicio 1: Completado y revisado mediante Pull Request.
