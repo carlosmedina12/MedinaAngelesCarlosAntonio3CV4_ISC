@@ -13,7 +13,7 @@ Daniela Campos Ramírez
 **Carrera:** Ingeniería en Sistemas Computacionales
 
 **boleta:** 
-2025630291
+2025630291 <br>
 2025630428
 ---
 
@@ -27,4 +27,4 @@ Daniela Campos Ramírez
 
 6. ## Estado del Proyecto
 - Ejercicio 1: Completado y revisado mediante Pull Request.
-
+- Ejercicio 5: Completado y revisado  mediante Pull Request
