@@ -27,4 +27,4 @@ Daniela Campos Ramírez
 
 6. ## Estado del Proyecto
 - Ejercicio 1: Completado y revisado mediante Pull Request.
-- Ejercicio 5: Completado y revisado  mediante Pull Request
+- Ejercicio 5: Completado y revisado  mediante Pull Request.
