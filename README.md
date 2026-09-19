@@ -1,7 +1,8 @@
 # MedinaAngelesCarlosAntonio
 # Práctica 1: Modelo Entidad Relación
 
-**Nombre:** Medina Ángeles Carlos Antonio
+**Nombre:** 
+Medina Ángeles Carlos Antonio
 
 Rivera Martinez Carlos
 
@@ -11,7 +12,9 @@ Daniela Campos Ramírez
 
 **Carrera:** Ingeniería en Sistemas Computacionales
 
-**boleta:** 2025630428
+**boleta:** 
+2025630291
+2025630428
 ---
 
 ## Índice de la Práctica
@@ -24,3 +27,4 @@ Daniela Campos Ramírez
 
 6. ## Estado del Proyecto
 - Ejercicio 1: Completado y revisado mediante Pull Request.
+
