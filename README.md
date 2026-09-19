@@ -2,6 +2,8 @@
 # Práctica 1: Modelo Entidad Relación
 
 **Nombre:** Medina Ángeles Carlos Antonio
+Rivera Martinez Carlos
+Daniela Campos Ramírez
 
 **Grupo:** 3CV4
 
