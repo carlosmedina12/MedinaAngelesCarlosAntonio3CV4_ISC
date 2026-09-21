@@ -2,16 +2,23 @@
 
 ## Datos de los estudiantes
 
-- **Nombre:** Medina Angeles Carlos Antonio
-- **Nombre:** Campos Ramirez Daniela
-- **Nombre:** Rivera Martinez Carlos
-- **Grupo:** 3CV4
-- **Carrera:** Ingeniería en Sistemas Computacionales
-- **Unidad de aprendizaje:** Bases de Datos
+- **Medina Ángeles Carlos Antonio**
+- **Campos Ramírez Daniela**
+- **Rivera Martinez Carlos**
+
+**Grupo:** 3CV4
+
+**Carrera:** Ingeniería en Sistemas Computacionales
+
+**Unidad de aprendizaje:** Bases de Datos
+
+**Boletas registradas en el repositorio:**
+- 2025630291
+- 2025630428
 
 ## Índice de la Práctica
 
-1. [Ejercicio 1: Control de versiones con Git y GitHub](./Ejercicio1evidencias.pdf)
+1. [Ejercicio 1: Control de Versiones con Git y GitHub](./Ejercicio1evidencias.pdf)
 2. [Ejercicio 2: Configuración del Entorno de BD](./Ejercicio2_Entorno.pdf)
 3. [Ejercicio 3: Investigación de Conceptos de BD](./Ejercicio3_Conceptos.pdf)
 4. [Ejercicio 4: Literatura Científica Arbitrada](./Ejercicio4_Articulo.pdf)
