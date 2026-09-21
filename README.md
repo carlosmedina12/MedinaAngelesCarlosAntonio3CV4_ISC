@@ -1,21 +1,20 @@
-# MedinaAngelesCarlosAntonio
-# Práctica 1: Modelo Entidad Relación
+# Práctica 1: Bases de Datos
 
-**Nombre:** 
-Medina Ángeles Carlos Antonio
+## Datos de los estudiantes
 
-Rivera Martinez Carlos
-
-Daniela Campos Ramírez
+- **Medina Ángeles Carlos Antonio**
+- **Campos Ramírez Daniela**
+- **Rivera Martinez Carlos**
 
 **Grupo:** 3CV4
 
 **Carrera:** Ingeniería en Sistemas Computacionales
 
-**boleta:** 
-2025630291 <br>
-2025630428
----
+**Unidad de aprendizaje:** Bases de Datos
+
+**Boletas registradas en el repositorio:**
+- 2025630291
+- 2025630428
 
 ## Índice de la Práctica
 
@@ -25,6 +24,12 @@ Daniela Campos Ramírez
 4. [Ejercicio 4: Literatura Científica Arbitrada](./Ejercicio4_Articulo.pdf)
 5. [Ejercicio 5: Caso Práctico - Modelo Entidad-Relación](./Ejercicio5_ModeloER.pdf)
 
-6. ## Estado del Proyecto
+## Estado del Proyecto
+
 - Ejercicio 1: Completado y revisado mediante Pull Request.
-- Ejercicio 5: Completado y revisado  mediante Pull Request.
+- Ejercicio 2: Configuración del entorno de PostgreSQL mediante Docker.
+- Ejercicio 5: Completado y revisado mediante Pull Request.
+
+## Evidencias
+
+Las evidencias de los ejercicios se encuentran en los archivos PDF incluidos en este repositorio.
