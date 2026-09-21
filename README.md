@@ -12,9 +12,10 @@
 
 **Unidad de aprendizaje:** Bases de Datos
 
-**Boletas registradas en el repositorio:**
+**Boletas registradas:**
 - 2025630291
 - 2025630428
+- 2022630825
 
 ## Índice de la Práctica
 
@@ -27,7 +28,9 @@
 ## Estado del Proyecto
 
 - Ejercicio 1: Completado y revisado mediante Pull Request.
-- Ejercicio 2: Configuración del entorno de PostgreSQL mediante Docker.
+- Ejercicio 2: Completado. Configuración del entorno de PostgreSQL mediante Docker.
+- Ejercicio 3: Completado. Investigación de conceptos fundamentales de bases de datos.
+- Ejercicio 4: Completado. Revisión de literatura científica arbitrada.
 - Ejercicio 5: Completado y revisado mediante Pull Request.
 
 ## Evidencias
