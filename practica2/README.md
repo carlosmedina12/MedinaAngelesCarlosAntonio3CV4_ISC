@@ -32,7 +32,7 @@
 
 ## Issues de propuestas de mejora
 *(agregar aquí los enlaces a los issues de GitHub de cada integrante una vez creados)*
-- Medina Ángeles Carlos Antonio: *(enlaces)*
+- Medina Ángeles Carlos Antonio: (https://github.com/carlosmedina12/MedinaAngelesCarlosAntonio3CV4_ISC/issues/4)
 - Rivera Martinez Carlos: *(enlaces)*
 - Daniela Campos Ramírez: *(enlaces)*
 
