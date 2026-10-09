@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="AEROIPN, prototipo académico de aerolínea y centro de operaciones." />
+  <title>AEROIPN | </title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header" id="inicio">
+    <a class="logo" href="#inicio" aria-label="Aeroipn inicio"><span class="logo-mark">✈</span> AEROIPN<span class="logo-dot">.</span></a>
+    <nav class="nav" aria-label="Navegación principal">
+      <a href="#vuelos">Vuelos</a><a href="#destinos">Destinos</a><a href="#servicios">Servicios</a>
+    </nav>
+    <a class="nav-cta" href="#vuelos">Explorar vuelos <span>↗</span></a>
+    <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false">☰</button>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-sky"><div class="sun-glow"></div><div class="cloud cloud-a"></div><div class="cloud cloud-b"></div><div class="plane-shape" aria-hidden="true">✈</div></div>
+      <div class="hero-content container"></p><h1 id="hero-title">Tu próximo destino<br/><em>.</em></h1><p>Descubre nuevas rutas y vive nuevas experiencias.</p><a href="#vuelos" class="hero-link">Encuentra tu próximo vuelo <span>↗</span></a></div>
+      <div class="hero-counter">01 <span>/ 03</span></div>
+    </section>
+    <section class="search-section container" id="vuelos" aria-labelledby="search-title">
+      <div class="search-heading"><div><p class="eyebrow">PLANEA TU VIAJE</p><h2 id="search-title">¿A dónde volamos?</h2></div><span class="demo-label">Buscador de demostración</span></div>
+      <form class="search-form" id="flight-form">
+        <label>Origen<select id="origin" required><option value="">Selecciona origen</option><option>Ciudad de México</option><option>Guadalajara</option><option>Cancún</option><option>Monterrey</option></select></label>
+        <label>Destino<select id="destination" required><option value="">Selecciona destino</option><option>Ciudad de México</option><option>Guadalajara</option><option>Cancún</option><option>Monterrey</option></select></label>
+        <label>Fecha de salida<input id="date" type="date" required /></label>
+        <label>Pasajeros<select id="passengers"><option>1 pasajero</option><option>2 pasajeros</option><option>3 pasajeros</option><option>4 pasajeros</option></select></label>
+        <button type="submit" class="search-button">Buscar vuelos <span>↗</span></button>
+      </form><p class="form-message" id="form-message" role="status" aria-live="polite"></p>
+    </section>
+    <section class="destinations container" id="destinos"><div class="section-top"><div><p class="eyebrow">EXPLORA </p><h2>Destinos que inspiran.</h2></div>      <div class="destination-grid"><article class="destination-card cancun"><div class="destination-image"><span class="destination-number">01 / DESTINO</span><div class="beach-art"><div class="beach-water"></div><div class="beach-sand"></div></div></div><div class="destination-info"><div><h3>Cancún</h3><p>Quintana Roo, México</p></div><span>↗</span></div></article>
+      <article class="destination-card cdmx"><div class="destination-image"><span class="destination-number">02 / DESTINO</span><div class="city-art"><span class="tower t1"></span><span class="tower t2"></span><span class="tower t3"></span><span class="tower t4"></span><span class="tower t5"></span></div></div><div class="destination-info"><div><h3>Ciudad de México</h3><p>Ciudad de México, México</p></div><span>↗</span></div></article>
+      <article class="destination-card gdl"><div class="destination-image"><span class="destination-number">03 / DESTINO</span><div class="church-art"><span class="spire s1"></span><span class="spire s2"></span><span class="church-body"></span></div></div><div class="destination-info"><div><h3>Guadalajara</h3><p>Jalisco, México</p></div><span>↗</span></div></article></div>
+    </section>
+    <section class="services" id="servicios"><div class="container"><div class="section-top"><div></div><p>Una experiencia pensada para acompañarte antes, durante y después de tu vuelo.</p></div><div class="services-grid"><article><span class="service-icon">▣</span><h3>Reservaciones</h3><p>Organiza tus viajes desde un solo lugar.</p></article><article><span class="service-icon">▦</span><h3>Selección de asientos</h3><p>Elige cómo quieres disfrutar el trayecto.</p></article><article><span class="service-icon">▤</span><h3>Equipaje</h3><p>Consulta y administra la información de tu equipaje.</p></article><article><span class="service-icon">✈</span><h3>Estado de vuelos</h3><p>Mantente al tanto de tu itinerario.</p></article></div></div></section>
+  </main>
+  <footer><div class="container footer-inner"><div><a class="logo" href="#inicio"><span class="logo-mark">✈</span> AEROIPN<span class="logo-dot">.</span></a><p>Tu próximo destino comienza aquí.</p></div><div class="footer-links"><a href="#inicio">Inicio</a><a href="#destinos">Destinos</a><a href="#servicios">Servicios</a></div></div><div class="container footer-bottom">© <span id="year"></span> AEROIPN · Proyecto académico de Bases de Datos · </div></footer>
+  <script src="script.js"></script>
+</body>
+</html>
