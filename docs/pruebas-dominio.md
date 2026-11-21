@@ -9,3 +9,5 @@ A continuación se documentan **10 casos de prueba** diseñados para verificar q
   ```sql
   INSERT INTO aeronave (matricula, modelo, fabricante, capacidad_total)
   VALUES ('xa_12', 'Boeing 737', 'Boeing', 180);
+INSERT INTO aeronave (matricula, modelo, fabricante, capacidad_total)
+VALUES ('XA-MAX', 'Airbus A380-Plus', 'Airbus', 950);
